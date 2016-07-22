@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MVCExample
 //
-//  Created by Jack on 01/06/16.
+//  Created by Pratik Lad on 01/06/16.
 //  Copyright © 2016 Pratik. All rights reserved.
 //
 
